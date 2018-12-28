@@ -67,3 +67,9 @@ body, html {
 .ptext .border .trans {
 	background-color: transparent;
 }
+
+@media (max-width: 768px) {
+	.ptext {
+		font-size: 15px;
+	}
+}
